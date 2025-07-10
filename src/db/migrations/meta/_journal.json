@@ -8,6 +8,13 @@
       "when": 1752067517537,
       "tag": "0000_public_shocker",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752182856038,
+      "tag": "0001_last_polaris",
+      "breakpoints": true
     }
   ]
 }
