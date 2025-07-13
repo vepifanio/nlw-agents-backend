@@ -15,6 +15,13 @@
       "when": 1752182856038,
       "tag": "0001_last_polaris",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752325787614,
+      "tag": "0002_orange_silver_sable",
+      "breakpoints": true
     }
   ]
 }
