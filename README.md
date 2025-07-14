@@ -1,14 +1,14 @@
-# NLW Agents
+# NLW Agents 🚀
 
-Backend em Node.js desenvolvido durante o evento NLW da Rocketseat. Ele fornece uma API para gestão de salas e perguntas com suporte a transcrição de áudio e IA generativa.
+Backend em Node.js desenvolvido durante o evento NLW da Rocketseat. Ele fornece uma API para gestão de salas e perguntas com suporte a transcrição de áudio e IA generativa. 🤖
 
 ## Tecnologias
 
-- **Fastify** como framework HTTP
-- **Zod** para validações de entrada
-- **Drizzle ORM** com **PostgreSQL** e extensão **pgvector**
-- **Google Gemini** para transcrição e geração de respostas
-- **TypeScript** executado via Node 20
+- **Fastify** como framework HTTP 🚀
+- **Zod** para validações de entrada 🛡️
+- **Drizzle ORM** com **PostgreSQL** e extensão **pgvector** 🗄️
+- **Google Gemini** para transcrição e geração de respostas 🤖
+- **TypeScript** executado via Node 20 ✨
 
 ## Padrões
 
@@ -37,5 +37,5 @@ Backend em Node.js desenvolvido durante o evento NLW da Rocketseat. Ele fornece 
    npm run dev
    ```
 
-A aplicação estará disponível em `http://localhost:3333`.
+A aplicação estará disponível em `http://localhost:3333`. 🌐
 
